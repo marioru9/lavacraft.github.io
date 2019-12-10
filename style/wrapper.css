@@ -1,0 +1,26 @@
+
+html {
+    height: 100%;
+    margin: 0;
+    min-width: 900px;
+    padding: 0;
+}
+body {
+    background: #eef4f6;
+    margin: 0;
+    width: 100%;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 900px;
+}
+.col1 {
+    float: left;
+    margin: 0 8px;
+    width: 240px;
+}
+.col2 {
+    float: left;
+    margin: 0 10px;
+    width: 620px;
+}
